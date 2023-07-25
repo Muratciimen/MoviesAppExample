@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  MoviesAppExample
 //
-//  Created by Murat Çimen on 22.07.2023.
+//  Created by Murat Çimen on 22.07.2023
 //
 
 import UIKit
